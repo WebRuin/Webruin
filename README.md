@@ -17,7 +17,7 @@
 [<img align="left" alt="codeSTACKr | Twitter" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/twitter.svg" />][twitter]
 [<img align="left" alt="codeSTACKr | LinkedIn" width="22px" src="https://cdn.jsdelivr.net/npm/simple-icons@v3/icons/linkedin.svg" />][linkedin]
 
-<br />
+---
 
 ### Languages and Tools:
 
@@ -34,13 +34,10 @@
 <img align="left" alt="GitHub" width="50px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/terminal/terminal.png" />
 
-<br />
-<br />
-
 ---
 
 <img align="left" alt="WebRuin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=webruin&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webruin&layout=compact&theme=dracula)](https://github.com/webruin/github-readme-stats)
+<img align="right" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webruin&layout=compact&theme=dracula" />
 
 [website]: https://timsmith.tech
 [website-in-progress]: https://tender-bassi-b6ed30.netlify.app/
