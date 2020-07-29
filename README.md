@@ -9,8 +9,6 @@
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
 
----
-
 <br />
 
 <img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webruin&layout=compact&theme=dracula" />
