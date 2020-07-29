@@ -39,7 +39,8 @@
 
 ---
 
-<img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=webruin&show_icons=true&hide_border=true" />
+<img align="left" alt="WebRuin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=webruin&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=webruin&layout=compact&theme=dracula)](https://github.com/webruin/github-readme-stats)
 
 [website]: https://timsmith.tech
 [website-in-progress]: https://tender-bassi-b6ed30.netlify.app/
