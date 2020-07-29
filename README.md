@@ -1,17 +1,15 @@
-I'm Jesse - aka [codeSTACKr][website] 👋
+# Hi! I'm Tim Smith - aka [WebRuin][website] 👋
 
-## I'm a Husband, Father, Developer, and Teacher!
-- 🔭 I’m currently working on a [VS Code Course][website]!
+## I'm a Husband, Developer, and Lover of Life!
+
+### My passion in life is meeting great new people and learning as much as I can about the many things I love! Every day, I find new inspiring things that motivate me to keep moving forward in life and to continue my search for my purpose in life. I believe that my Higher Power put me on this Earth to learn and inspire people to love life.
+
+- 🔭 I’m currently working on a [Peter's Bakery][website-in-progress]!
 - 🌱 I’m currently learning Svelte
 - 👯 I’m looking to collaborate with other content creators
 - 🥅 2020 Goals: Contribute more to Open Source projects
-- ⚡ Fun fact: I love to draw and play guitar / drums
 
-- 👯 I’m looking to collaborate on ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
+---
 
 ### Connect with me:
 
@@ -23,7 +21,7 @@ I'm Jesse - aka [codeSTACKr][website] 👋
 
 ### Languages and Tools:
 
-<img align="left" alt="Visual Studio Code" width="26px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
+<img align="left" alt="Visual Studio Code" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/visual-studio-code/visual-studio-code.png" />
 <img align="left" alt="HTML5" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/html/html.png" />
 <img align="left" alt="CSS3" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/css/css.png" />
 <img align="left" alt="Sass" width="50px" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/sass/sass.png" />
@@ -44,5 +42,6 @@ I'm Jesse - aka [codeSTACKr][website] 👋
 <img align="left" alt="codeSTACKr's Github Stats" src="https://github-readme-stats.vercel.app/api?username=webruin&show_icons=true&hide_border=true" />
 
 [website]: https://timsmith.tech
+[website-in-progress]: https://tender-bassi-b6ed30.netlify.app/
 [twitter]: https://twitter.com/timsmith23
 [linkedin]: https://linkedin.com/in/timsmith25
