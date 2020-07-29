@@ -41,8 +41,11 @@
 
 ---
 
-<img align="left" alt="WebRuin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=webruin&theme=dracula&show_icons=true&hide_border=true&count_private=true" />
-<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webruin&layout=compact&theme=dracula&hide_border=true" />
+<img align="left" alt="WebRuin's Github Stats" src="https://github-readme-stats.vercel.app/api?username=webruin&theme=dracula&show_icons=true&count_private=true" />
+
+<br />
+
+<img align="left" alt="Top Langs" src="https://github-readme-stats.vercel.app/api/top-langs/?username=webruin&layout=compact&theme=dracula" />
 
 [website]: https://timsmith.tech
 [website-in-progress]: https://tender-bassi-b6ed30.netlify.app/
